@@ -4,14 +4,15 @@ This project is intended as the starting point for an open source rail transit s
 # Outline
 
 1. Cost/Benefit analysis
-a. Benefits
-- Economic
-- Cultural
-- Social 
 
-b. Costs
+	a. Benefits
+	- Economic
+	- Cultural
+	- Social 
 
-c. Comparison of costs/benefits to existing transit systems
+	b. Costs
+
+	c. Comparison of costs/benefits to existing transit systems
 
 2. Metrics for feasibility/general prerequisites
 
